@@ -1,0 +1,40 @@
+body{
+    font-family: Helvetica, sans-serif;
+    font-palette: light;;
+    margin: 0;
+    background-color: wheat;
+
+}
+
+.chart {
+    text-align: center;
+    margin: auto;
+}
+
+.row {
+    margin-top: 25px;
+    margin-bottom: 100px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    color: darkslateblue;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h2, h3 {
+    color: darkslateblue;
+    font-weight: bold;
+    text-align: center;
+}
+.footer {
+    text-align: center;
+    padding: 3px;
+    color: white;
+}
+
+.stud{
+    text-align: center;
+}
